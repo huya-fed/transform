@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/huya-fed/transform.git",
+    "version": "v1.1.6",
+    "name": "transform",
+    "main": "transform.js"
+}
